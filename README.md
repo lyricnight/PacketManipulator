@@ -8,11 +8,6 @@
 [![Downloads](https://img.shields.io/github/downloads/Gulag-Innovation/PacketManipulator/total?color=9900ee)](https://github.com/Gulag-Innovation/PacketManipulator/release/latest)
 [![License](https://img.shields.io/github/license/Gulag-Innovation/PacketManipulator)](https://github.com/Gulag-Innovation/PacketManipulator/blob/master/LICENSE)
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1124010332453621781/1124010655754764288/PacketManipulator.gif" alt="packetmanipulatorgif" />
-  <img src="https://cdn.discordapp.com/attachments/1124010332453621781/1124011511417933934/image.png" alt="packetmanipulatorscreenshot" />
-</p>
-
 <center>
 
 <b><font size=+2>What Is Packet Manipulator?</font></b>
